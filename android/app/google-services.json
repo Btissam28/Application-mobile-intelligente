@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "733497743866",
+    "project_id": "smartapp-c78cf",
+    "storage_bucket": "smartapp-c78cf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733497743866:android:099503b05186fe333bec43",
+        "android_client_info": {
+          "package_name": "com.Bakkar.smart_app_bakkar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyw2-XIdsmheLJYTfE5_FhCUrnwT3pbMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
